@@ -13,6 +13,15 @@
   }
 }
 
+.overlayTitle {
+  margin-top: -1000px;
+  z-index:1000;
+}
+
+.eagle {
+  width: 100%
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
